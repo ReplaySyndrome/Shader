@@ -39,14 +39,16 @@
 		}
 
 		inline fixed4 LightingPhong(SurfaceOutput s, half3 viewDir, UnityGI gi) {
+
+			const float PI = 3.14159265358979323846;
 			UnityLight light = gi.light;
 
 			float nl = max(0.0f, dot(s.Normal, light.dir));
 			float3 diffuseTerm = nl * s.Albedo.rgb * light.color;
-
+			float norm = (nl + 2) / (2 * PI);
 			float3 reflectionDirection = reflect(-light.dir, s.Normal);
 			float3 specularDot = max(0.0, dot(viewDir, reflectionDirection));
-			float3 specular = pow(specularDot, _Shininess);
+			float3 specular = norm * pow(specularDot, _Shininess);
 			float3 specularTerm = specular * _SpecColor.rgb * light.color.rgb;
 
 			float3 finalColor = diffuseTerm.rgb + specularTerm;
