@@ -1,5 +1,4 @@
 sceneSetups:
-- path: Assets/Unity Shaders and Effects/Assets/Chapter 01/Scenes/Chapter 1 - Starting
-    Point.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
