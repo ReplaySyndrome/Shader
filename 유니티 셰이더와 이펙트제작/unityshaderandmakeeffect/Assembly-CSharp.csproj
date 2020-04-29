@@ -114,6 +114,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\Fur.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 07\Shaders\Multiply.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\Holographic.shader" />
+     <None Include="Assets\MYSHADER\MyScroollingUVShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 10\Shaders\ScreenNightVision.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 10\ScreenNightVision.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\Shaders\ErrorShader.shader" />
@@ -122,6 +123,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\Shaders\StandardDiffuse.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\Desaturate.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 07\Shaders\WindowShader.shader" />
+     <None Include="Assets\MYSHADER\MyTransparentShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\Anisotropic.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\SimpleLambert.shader" />
@@ -135,7 +137,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\MyCGInclude.cginc" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\RadiusShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
-     <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\MyShaders\MyStandardDiffuse.shader" />
+     <None Include="Assets\MYSHADER\MyStandardDiffuse.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\ScrollingUVs.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 09\Shaders\ScreenDepth.shader" />
@@ -144,14 +146,16 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 06\Shaders\VolumetricExplosion.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 09\Shaders\ScreenBSC.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\FurPass.cginc" />
+     <None Include="Assets\MYSHADER\MyTexturedShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 10\Shaders\ScreenOldFilm.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 06\Shaders\VertexExtrusionMap.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\TextureBlending.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\TexturedShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\ToonShaderLevels.shader" />
-     <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\MyShaders\MyStandardColor.shader" />
+     <None Include="Assets\MYSHADER\MyStandardColor.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 08\Shaders\OptimzedShader02.shader" />
+     <None Include="Assets\MYSHADER\MyNormalShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 08\Shaders\OptimzedShader01.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 09\Shaders\ScreenGrayscale.shader" />
@@ -161,8 +165,10 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 08\Shaders\OptimzedShader01_Start.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 09\Shaders\ScreenOverlay.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\Colorize.shader" />
+     <None Include="Assets\MYSHADER\MyHolograpicShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\Transparent.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\Phong.shader" />
+     <None Include="Assets\MYSHADER\MySimpleDiffuse.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 06\Shaders\SimpleVertexColor.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 06\Shaders\SnowShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\NormalShader.shader" />
