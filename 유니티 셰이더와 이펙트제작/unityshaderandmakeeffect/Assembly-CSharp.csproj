@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\MyScript\MySetRadiusProperties.cs" />
      <Compile Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
      <Compile Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
      <Compile Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
@@ -115,6 +116,8 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 07\Shaders\Multiply.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\Holographic.shader" />
      <None Include="Assets\MYSHADER\MyScroollingUVShader.shader" />
+     <None Include="Assets\MYSHADER\MyTextureBlending.shader" />
+     <None Include="Assets\MYSHADER\MyRadiusShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 10\Shaders\ScreenNightVision.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 10\ScreenNightVision.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\Shaders\ErrorShader.shader" />

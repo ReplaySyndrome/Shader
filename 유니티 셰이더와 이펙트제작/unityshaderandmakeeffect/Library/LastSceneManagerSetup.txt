@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/3.7Holograpic.unity
+- path: Assets/Scenes/Chapter3 Radius.unity
   isLoaded: 1
   isActive: 1
