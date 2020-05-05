@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Chapter3 Radius.unity
+- path: Assets/Scenes/Chapter4.unity
   isLoaded: 1
   isActive: 1
