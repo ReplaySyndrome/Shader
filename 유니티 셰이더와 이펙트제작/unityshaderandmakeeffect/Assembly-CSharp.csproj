@@ -115,6 +115,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\Fur.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 07\Shaders\Multiply.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\Holographic.shader" />
+     <None Include="Assets\MYSHADER\MyToonShader.shader" />
      <None Include="Assets\MYSHADER\MyScroollingUVShader.shader" />
      <None Include="Assets\MYSHADER\MyTextureBlending.shader" />
      <None Include="Assets\MYSHADER\MyRadiusShader.shader" />
@@ -130,6 +131,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\Anisotropic.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\SimpleLambert.shader" />
+     <None Include="Assets\MYSHADER\MySimpleLambert.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\Heatmap.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\ToonShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\Shaders\StandardColor.shader" />
@@ -157,6 +159,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\TexturedShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\ToonShaderLevels.shader" />
      <None Include="Assets\MYSHADER\MyStandardColor.shader" />
+     <None Include="Assets\MYSHADER\MyPhong.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 08\Shaders\OptimzedShader02.shader" />
      <None Include="Assets\MYSHADER\MyNormalShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 08\Shaders\OptimzedShader01.shader" />
