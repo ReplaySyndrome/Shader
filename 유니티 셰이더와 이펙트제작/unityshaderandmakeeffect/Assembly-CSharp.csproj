@@ -127,6 +127,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\Shaders\StandardDiffuse.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\Desaturate.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 07\Shaders\WindowShader.shader" />
+     <None Include="Assets\MYSHADER\MyAnsotropicShader.shader" />
      <None Include="Assets\MYSHADER\MyTransparentShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\Anisotropic.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
@@ -157,6 +158,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 06\Shaders\VertexExtrusionMap.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\TextureBlending.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\TexturedShader.shader" />
+     <None Include="Assets\MYSHADER\MyBlinPhongShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\ToonShaderLevels.shader" />
      <None Include="Assets\MYSHADER\MyStandardColor.shader" />
      <None Include="Assets\MYSHADER\MyPhong.shader" />
