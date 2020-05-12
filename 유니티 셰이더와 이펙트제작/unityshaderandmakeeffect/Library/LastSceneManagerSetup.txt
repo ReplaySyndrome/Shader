@@ -1,5 +1,4 @@
 sceneSetups:
-- path: Assets/Unity Shaders and Effects/Assets/Chapter 01/Scenes/1.1 Installing the
-    post-processing stack.unity
+- path: Assets/Scenes/Chapter 06.unity
   isLoaded: 1
   isActive: 1

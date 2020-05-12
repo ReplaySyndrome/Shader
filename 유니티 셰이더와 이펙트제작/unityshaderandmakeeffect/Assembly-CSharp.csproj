@@ -119,6 +119,7 @@
      <None Include="Assets\MYSHADER\MyScroollingUVShader.shader" />
      <None Include="Assets\MYSHADER\MyTextureBlending.shader" />
      <None Include="Assets\MYSHADER\MyRadiusShader.shader" />
+     <None Include="Assets\MYSHADER\MySimpleColor.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 10\Shaders\ScreenNightVision.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 10\ScreenNightVision.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\Shaders\ErrorShader.shader" />
@@ -143,6 +144,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\MyCGInclude.cginc" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\RadiusShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+     <None Include="Assets\MYSHADER\MyVertexAnimation.shader" />
      <None Include="Assets\MYSHADER\MyStandardDiffuse.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\ScrollingUVs.shader" />
@@ -174,6 +176,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 09\Shaders\ScreenOverlay.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\Colorize.shader" />
      <None Include="Assets\MYSHADER\MyHolograpicShader.shader" />
+     <None Include="Assets\MYSHADER\MySimpleVertexShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\Transparent.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\Phong.shader" />
      <None Include="Assets\MYSHADER\MySimpleDiffuse.shader" />
