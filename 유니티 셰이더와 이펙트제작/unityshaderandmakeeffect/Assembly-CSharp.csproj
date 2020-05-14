@@ -124,6 +124,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 10\ScreenNightVision.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\Shaders\ErrorShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\BlinnPhong.shader" />
+     <None Include="Assets\MYSHADER\MyVolumatricExplosion.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 09\Shaders\ScreenBlendMode.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\Shaders\StandardDiffuse.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\Desaturate.shader" />
@@ -159,6 +160,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 06\Shaders\VertexExtrusionMap.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\TextureBlending.shader" />
+     <None Include="Assets\MYSHADER\MySnowShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\TexturedShader.shader" />
      <None Include="Assets\MYSHADER\MyBlinPhongShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\ToonShaderLevels.shader" />
@@ -182,6 +184,7 @@
      <None Include="Assets\MYSHADER\MySimpleDiffuse.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 06\Shaders\SimpleVertexColor.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 06\Shaders\SnowShader.shader" />
+     <None Include="Assets\MYSHADER\MyNormalExtursion.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\NormalShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 06\Shaders\VertexAnimation.shader" />
  <Reference Include="UnityEditor.StandardEvents">
