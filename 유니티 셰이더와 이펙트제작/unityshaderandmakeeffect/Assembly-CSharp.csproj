@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\MyScript\MySetRadiusProperties.cs" />
+     <Compile Include="Assets\MyScript\SayHelloWorld.cs" />
      <Compile Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
      <Compile Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
      <Compile Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
@@ -158,6 +159,7 @@
      <None Include="Assets\MYSHADER\MyTexturedShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 10\Shaders\ScreenOldFilm.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
+     <None Include="Assets\MYSHADER\MyMultiply.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 06\Shaders\VertexExtrusionMap.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\TextureBlending.shader" />
      <None Include="Assets\MYSHADER\MySnowShader.shader" />

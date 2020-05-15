@@ -1,6 +1,7 @@
 ﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader "CookbookShaders/Chapter07/Multiply" {
+Shader "CookbookShaders/Chapter07/Multiply" 
+{
 	Properties 
 	{
 		_Color ("Color", Color) = (1,0,0,1)
