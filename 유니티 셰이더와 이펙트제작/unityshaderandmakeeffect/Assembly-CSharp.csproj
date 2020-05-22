@@ -114,6 +114,7 @@
      <Compile Include="Assets\Unity Shaders and Effects\Assets\Chapter 10\Scripts\RenderOldFilm.cs" />
      <Compile Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Scripts\HeatmapDrawer.cs" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\Fur.shader" />
+     <None Include="Assets\MYSHADER\MyMobileShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 07\Shaders\Multiply.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\Holographic.shader" />
      <None Include="Assets\MYSHADER\MyToonShader.shader" />
@@ -125,8 +126,10 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 10\ScreenNightVision.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\Shaders\ErrorShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\BlinnPhong.shader" />
+     <None Include="Assets\MYSHADER\MyGrabShader.shader" />
      <None Include="Assets\MYSHADER\MyVolumatricExplosion.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 09\Shaders\ScreenBlendMode.shader" />
+     <None Include="Assets\MYSHADER\My2DWaterShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\Shaders\StandardDiffuse.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\Desaturate.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 07\Shaders\WindowShader.shader" />
@@ -135,6 +138,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\Anisotropic.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\SimpleLambert.shader" />
+     <None Include="Assets\MYSHADER\MyOptimizeShader01.shader" />
      <None Include="Assets\MYSHADER\MySimpleLambert.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\Heatmap.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\ToonShader.shader" />
@@ -164,6 +168,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\TextureBlending.shader" />
      <None Include="Assets\MYSHADER\MySnowShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 03\Shaders\TexturedShader.shader" />
+     <None Include="Assets\MYSHADER\MyWindowShader.shader" />
      <None Include="Assets\MYSHADER\MyBlinPhongShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\ToonShaderLevels.shader" />
      <None Include="Assets\MYSHADER\MyStandardColor.shader" />
