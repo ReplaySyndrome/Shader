@@ -29,14 +29,26 @@
 			// put more per-instance properties here
 		UNITY_INSTANCING_BUFFER_END(Props)
 
-		void surf (Input IN, inout SurfaceOutputStandard o) {
+		inline fixed4 LightingMobileBlinnPhong(SurfaceOutput s, fixed3 lightDir, fixed3 halfDir, fixed atten)
+		{
+			fixed diff = max(0, dot(s.Normal, lightDir));
+			fixed nh = max(0, dot(s.Normal, halfDir));
+			fixed spec = pow(nh, s.Specular * 128) * s.Gloss;
+			fixed4 c;
+			c.rgb = (s.Albedo * _LightColor0.rgb * diff + _LightColor0.rgb * spec) * (atten * 2);
+			c.a = 0.0;
+			return c;
+		}
+
+		void surf (Input IN, inout SurfaceOutput o) {
 			// Albedo comes from a texture tinted by color
-			fixed4 c = tex2D (_MainTex, IN.uv_MainTex) * _Color;
-			o.Albedo = c.rgb;
+			fixed4 diffuseTex = tex2D (_Diffuse, IN.uv_Diffuse);
+			o.Albedo = diffuseTex.rgb;
 			// Metallic and smoothness come from slider variables
-			o.Metallic = _Metallic;
-			o.Smoothness = _Glossiness;
-			o.Alpha = c.a;
+			o.Gloss = diffuseTex.a;
+			o.Alpha = 0.0;
+			o.Specular = _SpecIntensity;
+			o.Normal = UnpackNormal(tex2D(_NormalMap, IN.uv_Diffuse));
 		}
 		ENDCG
 	}
