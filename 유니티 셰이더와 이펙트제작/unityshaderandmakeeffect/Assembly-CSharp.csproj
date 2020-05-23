@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\MyScript\MySetRadiusProperties.cs" />
+     <Compile Include="Assets\MyScript\MyTestRenderImage.cs" />
      <Compile Include="Assets\MyScript\SayHelloWorld.cs" />
      <Compile Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
      <Compile Include="Assets\Unity Shaders and Effects\Assets\Chapter 01\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
@@ -140,6 +141,7 @@
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\SimpleLambert.shader" />
      <None Include="Assets\MYSHADER\MyOptimizeShader01.shader" />
      <None Include="Assets\MYSHADER\MySimpleLambert.shader" />
+     <None Include="Assets\MYSHADER\MyScreenGrayScale.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 11\Shaders\Heatmap.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 04\Shaders\ToonShader.shader" />
      <None Include="Assets\Unity Shaders and Effects\Assets\Chapter 02\Shaders\StandardColor.shader" />
